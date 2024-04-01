@@ -1,0 +1,1 @@
+python train.py --ways 1 --num_class 256 --eps 0.1 --device cuda:0 --p_bursty 1 --p_icl 0.8 --exp_name fig3_onebatch
